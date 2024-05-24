@@ -1,0 +1,177 @@
+{
+  "data":[
+    {
+      "id":"1",
+      "category":"T-shirt",
+      "images":"https://хасл.рф/components/com_jshopping/files/img_products/41072/the-north-face-41072-1.jpg",
+      "name":"THE NORTH FACE",
+      "description":"T-SHIRT FOR MEN THE NORTH FACE EASY",
+      "price":699,
+      "sizes":[44,46,48,50],
+      "color":["black"],
+      "kol":1
+    },
+    {
+      "id":"2",
+      "category":"T-shirt",
+      "images":"https://хасл.рф/components/com_jshopping/files/img_products/41075/adidas-41075-1.jpg" ,
+      "name":"ADIDAS",
+      "description":"T-SHIRT FOR MEN ADIDAS BOS",
+      "price":299,
+      "sizes":[40,42,44,46,48,50],
+      "color":["blue"],
+      "kol":1
+    },
+    {
+      "id":"3",
+      "category":"T-shirt",
+      "images":
+        "https://хасл.рф/components/com_jshopping/files/img_products/31211/fila-31211-1.jpg",
+      "name":"FILLA",
+      "description":"T-SHIRT FOR MEN FILLA ESSENTIALS",
+      "price":199,
+      "sizes":[42,44,46,48,50,52],
+      "color":["white"],
+      "kol":1
+    },
+{
+      "id":"4",
+      "category":"T-shirt",
+      "images":
+        "https://хасл.рф/components/com_jshopping/files/img_products/32805/gap-32805-1.jpg",
+      "name":"GAP",
+      "description":"T-SHIRT FOR MEN GAP",
+      "price":499,
+      "sizes":[40,42,44,46,48,50,52],
+      "color":"Orange",
+      "kol":1
+    },
+{
+      "id":"5",
+      "category":"T-shirt",
+      "images":"https://хасл.рф/components/com_jshopping/files/img_products/40703/fendi-40703-1.jpg"      ,
+      "name":"FENDI",
+      "description":"T-SHIRT FOR MEN FENDI UA",
+      "price":499,
+      "sizes":[42,44,46,48,50],
+      "color":"Orange",
+      "kol":1
+    },
+    {
+      "id":"6",
+      "category":"T-shirt",
+      "images":"https://хасл.рф/components/com_jshopping/files/img_products/31187/jordan-31187-1.jpg",
+      "name":"JORDAN",
+      "description":"T-SHIRT FOR MEN JORDAN",
+      "price":299,
+      "sizes":[42,44,46,48,50,52],
+      "color":["black"],
+      "kol":1
+    },
+{
+      "id":"7",
+      "category":"Sneakers",
+      "images":"https://хасл.рф/components/com_jshopping/files/img_products/41672/new-balance-990-v2-41672-1.jpg",
+      "name":"NEW BALANCE",
+      "description":"SNIKERS FOR MEN NEW BALANCE",
+      "price":399,
+      "sizes":[40,42,44,46,48,50],
+      "color":["red"],
+      "kol":1
+    },
+{
+      "id":"8",
+      "category":"Sneakers",
+      "images":
+        "https://хасл.рф/components/com_jshopping/files/img_products/40504/asics-gel-preleus-40504-1.jpg"
+      ,
+      "name":"ASICS",
+      "description":"SNIKERS FOR MEN NEW ASICS GEL-SOMONA 7",
+      "price":399,
+      "sizes":[42,44,46,48,50,52,54],
+      "color":["Orange"],
+      "kol":1
+    },
+{
+      "id":"9",
+      "category":"Sneakers",
+      "images":"https://хасл.рф/components/com_jshopping/files/img_products/35178/louis-vuitton-runner-tatic-35178-1.jpg"
+      ,
+      "name":"LOUIS VUITTON",
+      "description":"SNIKERS FOR MEN REEBOK ENERGEN Run 3",
+      "price":299,
+      "sizes":[40,42,44,46,48,50],
+      "color":["black"],
+      "kol":1
+    },
+{
+      "id":"10",
+      "category":"Jeans",
+      "images":"https://хасл.рф/components/com_jshopping/files/img_products/34907/versace-34907-1.jpg"
+      ,
+      "name":"KAPPA",
+      "description":"TROUSERS FOR MEN KAPPA",
+      "price":299,
+      "sizes":[42,44,46,48,50,52],
+      "color":["black"],
+      "kol":1
+    },
+    {
+      "id":"11",
+      "category":"Jeans",
+      "images":"https://хасл.рф/components/com_jshopping/files/img_products/34909/versace-34909-1.jpg"
+      ,
+      "name":"NorthLand",
+      "description":"JEANS FOR MEN LEVI'S 501",
+      "price":7999,
+      "sizes":[28,30,32,34,36,38,40,42],
+      "color":["blue"],
+      "kol":1
+    },
+{
+      "id":"12",
+      "category":"Jeans",
+      "images":"https://хасл.рф/components/com_jshopping/files/img_products/34907/versace-34907-1.jpg"
+      ,
+      "name":"VERSACE",
+      "description":"JEANS FOR MEN VERSACE",
+      "price":9999,
+      "sizes":[28,30,32,34,36,38,40],
+      "color":["black"],
+      "kol":1
+    },
+{
+      "id":"13",
+      "category":"Sneakers",
+      "images":"https://хасл.рф/components/com_jshopping/files/img_products/40229/puma-future-ultimate-tf-40229-1.jpg"      ,
+      "name":"PUMA",
+      "description":"SNIKERS FOR MEN PUMMA",
+      "price":899,
+      "sizes":[28,30,32,34,36,38,40,42],
+      "color":["pink"],
+      "kol":1
+    },
+{
+      "id":"14",
+      "category":"Jeans",
+      "images": "https://хасл.рф/components/com_jshopping/files/img_products/34913/louis-vuitton-34913-1.jpg",
+      "name":"LOUIS VUITTON",
+      "description":"JEANS FOR MEN LOUIS VUITTON",
+      "price":6999,
+      "sizes":[28,30,32,34,36,38,40,42],
+      "color":["blue"],
+      "kol":1
+    },
+{
+      "id":"15",
+      "category":"Sneakers",
+      "images":"https://хасл.рф/components/com_jshopping/files/img_products/40030/fila-40030-1.jpg",
+      "name":"FILA",
+      "description":"SNIKERS FOR MEN FILA",
+      "price":7499,
+      "sizes":[28,30,32,34,36,38,40,42],
+      "color":["black"],
+      "kol":1
+    }
+  ]
+}

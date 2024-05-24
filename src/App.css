@@ -1,0 +1,12 @@
+.in:focus{
+    border: none;
+    outline: none;
+}
+/* .backgroundImage{
+    background-image: url(../src/images/Bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+span{
+    margin-right: 3%;
+}
